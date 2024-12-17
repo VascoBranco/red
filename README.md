@@ -1,7 +1,7 @@
 # red: IUCN Redlisting Tools
 
 [![CRAN status](https://www.r-pkg.org/badges/version/red)](https://cran.r-project.org/package=red)
-[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/red)](http://www.r-pkg.org/pkg/red)
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/red)](https://cran.r-project.org/package=red)
 
 ## Description
 
